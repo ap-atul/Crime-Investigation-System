@@ -12,5 +12,5 @@ A simple crime management system, which stores and display data from MySQL datab
 ![login](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/1.png "Login")
 ![officer-dash](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/2.png "Officer Dashboard")
 ![officer-reg](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/3.png "Officer Registeration")
-![data-entry](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/1.png "Store Data")
-![search](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/1.png "Search Data")
+![data-entry](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/4.png "Store Data")
+![search](https://github.com/AP-Atul/Crime-Investigation-System/blob/master/screens/5.png "Search Data")
